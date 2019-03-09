@@ -1,5 +1,5 @@
 # LearnDB
-LearnDB is a database of [US] learning programs
+LearnDB is a open source database of [US] learning programs
 
 ## Built With
 - [MySQL](https://dev.mysql.com/doc/) - Relational Database Management System (RDMS)
