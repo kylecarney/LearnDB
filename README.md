@@ -9,13 +9,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-
-## Running the tests
-
-### Break down into end to end tests
-
-### And coding style tests
-
 ## Deployment
 
 ## Built With
