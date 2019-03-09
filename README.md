@@ -12,6 +12,6 @@ See the complete list of [contributors](https://github.com/kylecarney/LeanDB/con
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/KyleCarney/LearnDB/LICENSE.md) file for details
 
 ## Acknowledgments
