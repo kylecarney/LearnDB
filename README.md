@@ -2,8 +2,7 @@
 LearnDB is a database of [US] learning programs
 
 ## Built With
-[ReactJS](https://reactjs.org/docs/getting-started.html) - Web framework
-[MySQL](https://dev.mysql.com/doc/) - Relational database
+- [MySQL](https://dev.mysql.com/doc/) - Relational Database Management System (RDMS)
 
 ## Authors
 
