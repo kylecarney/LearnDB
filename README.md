@@ -1,17 +1,9 @@
 # LearnDB
 LearnDB is a database of [US] learning programs
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-### Installing
-
-## Deployment
-
 ## Built With
+[ReactJS](https://reactjs.org/docs/getting-started.html) - Web framework
+[MySQL](https://dev.mysql.com/doc/) - Relational database
 
 ## Authors
 
