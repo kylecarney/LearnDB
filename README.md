@@ -13,10 +13,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Built With
 
-## Contributing
-
-## Versioning
-
 ## Authors
 
 * **Kyle Carney** - *Initial work* - [KyleCarney](https://github.com/KyleCarney)
