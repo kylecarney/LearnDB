@@ -8,10 +8,10 @@ LearnDB is a database of [US] learning programs
 
 * **Kyle Carney** - *Initial work* - [KyleCarney](https://github.com/KyleCarney)
 
-See the complete list of [contributors](https://github.com/kylecarney/LeanDB/contributors.md) who participated in this project.
+See the complete list of [contributors](https://github.com/kylecarney/LearnDB/blob/master/contributors.md) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/KyleCarney/LearnDB/LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/kylecarney/LearnDB/blob/master/LICENSE) file for details
 
 ## Acknowledgments
