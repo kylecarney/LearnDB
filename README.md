@@ -8,7 +8,7 @@ LearnDB is a database of [US] learning programs
 
 * **Kyle Carney** - *Initial work* - [KyleCarney](https://github.com/KyleCarney)
 
-See the complete list of [contributors](https://github.com/kylecarney/learndb/contributors) who participated in this project.
+See the complete list of [contributors](https://github.com/kylecarney/LeanDB/contributors.md) who participated in this project.
 
 ## License
 
