@@ -22,7 +22,18 @@ VALUES
 ('Bevill State Community College', "AL", 100130749);
 ('Birmingham-Southern College', "AL", 100130762);
 ('Bishop State Community College', "AL", 100130745);
-('Calhoun Community College', "AL", 100130732
+('Calhoun Community College', "AL", 100130732);
 ('Central Alabama Community College', "AL", 100130725);
 ('Chattahoochee Valley Community College', "AL", 100130741);
+('Coastal Alabama Community College', "AL", 100133591);
+('Enterprise State Community College', "AL", 100130726);
+('Faulkner University', "AL", 100130789);
+('Gadsden State Community College', "AL", 100130727);
+('Wallace Community College-Dothan', "AL", 100130798);
+('Trenholm Sate Community College', "AL", 100130750);
+('Huntingdon College', "AL", 100130765);
+('Jacksonville State University', "AL", 100130766);
+('Jefferson State Community College', "AL", 100130731);
+
+
 SELECT * FROM schools;
