@@ -19,4 +19,10 @@ VALUES
 ('Athens State University', "AL", 100130760);
 ('Auburn University', "AL", 100130761);
 ('Auburn University at Montgomery', "AL", 100130784);
+('Bevill State Community College', "AL", 100130749);
+('Birmingham-Southern College', "AL", 100130762);
+('Bishop State Community College', "AL", 100130745);
+('Calhoun Community College', "AL", 100130732
+('Central Alabama Community College', "AL", 100130725);
+('Chattahoochee Valley Community College', "AL", 100130741);
 SELECT * FROM schools;
