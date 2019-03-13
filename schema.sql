@@ -3,14 +3,14 @@ CREATE database LearnDB;
 
 USE LearnDB;
 
-CREATE TABLE institutions (
+CREATE TABLE schools (
   school_id INT NOT NULL AUTO_INCREMENT,
   school_name VARCHAR(100) NOT NULL,
   school_state VARCHAR(2) NOT NULL,
   PRIMARY KEY (school_id)
 );
 
-INSERT INTO institutions (school_name, school_state)
+INSERT INTO schools (school_name, school_state)
 VALUES 
 ('Villanova University', 'PA');
-SELECT * FROM institutions;
+SELECT * FROM schools;
