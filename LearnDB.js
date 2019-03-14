@@ -5,7 +5,7 @@ const inquirer = require('inquirer');
 // Establish database connection
 const connection = mysql.createConnection({
   host: 'localhost',
-  port: ####,
+  port: 3306,
   user: '******',
   password: '******',
   database: 'LearnDB'
