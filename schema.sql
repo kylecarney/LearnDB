@@ -11,6 +11,7 @@ CREATE TABLE schools (
   PRIMARY KEY (school_id)
 );
 
+//* Schema for Alabama Schools *//
 INSERT INTO schools (school_name, school_state, school_external_org_id)
 VALUES 
 ('Air University', "AL", 100130743);
