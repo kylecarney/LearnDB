@@ -104,4 +104,35 @@ VALUES
 ('Western International University', "AZ", 100130853),
 ('Yavapai College', "AZ", 100130832);
 
+/* Schema for Arkansas schools */
+INSERT INTO schools (school_name, school_state, school_external_org_id)
+VALUES 
+('Arkansas Baptist College', "AR", 100120715),
+('Arkansas Northeastern College', "AR", 100120675),
+('Arkansas State University', "AR", 100120698),
+('Arkansas State University Mountain Home', "AR", 100120680),
+('Arkansas State University-Beebe Campus', "AR", 100120676),
+('Arkansas State University-Newport', "AR", 100135740),
+('Arkansas Tech University', "AR", 100120696),
+('Central Baptist College', "AR", 100120716),
+('Cossatot Community College of the University of Arkansas', "AR", 100120677),
+('East Arkansas Community College', "AR", 100120673),
+('Harding University', "AR", 100120700),
+('Henderson State University', "AR", 100120702),
+('Hendrix College', "AR", 100120702),
+('John Brown University', "AR", 100120704),
+('National Park Community College', "AR", 100120674),
+('North Arkansas College', "AR", 100120672),
+('Northwest Arkansas Community College', "AR", 100120681),
+('Southeast Arkansas College', "AR", 100120682),
+('Southern Arkansas University-Magnolia', "AR", 100120708),
+('University of Arkansas-Pulaski Tech College', "AR", 100120678),
+('University of Arkansas', "AR", 100120710),
+('University of Arkansas - Fort Smith', "AR", 100120671),
+('University of Arkansas at Little Rock', "AR", 100120705),
+('University of Arkansas at Monticello', "AR", 100120692),
+('University of Arkansas at Pine Bluff', "AR", 100120690),
+('University of Central Arkansas', "AR", 100120711),
+('University of the Ozarks', "AR", 100120699),
+
 SELECT * FROM schools;
