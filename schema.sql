@@ -3,12 +3,13 @@ CREATE database LearnDB;
 
 USE LearnDB;
 
-CREATE TABLE schools (
-  school_id INT NOT NULL AUTO_INCREMENT,
+CREATE TABLE schools 
+(
+  school_pk INT NOT NULL AUTO_INCREMENT,
   school_name VARCHAR(100) NOT NULL,
   school_state VARCHAR(2) NOT NULL,
   school_external_org_id INT(30) NULL,
-  PRIMARY KEY (school_id)
+  PRIMARY KEY (school_pk)
 );
 
 /* Schema for Alabama schools */
@@ -56,5 +57,13 @@ VALUES
 ('University of North Alabama', "AL", 100130763),
 ('University of South Alabama', "AL", 100130781),
 ('Wallace State Community College', "AL", 100130748);
+
+/* Schema for Alaska schools */
+INSERT INTO schools (school_name, school_state, school_external_org_id)
+VALUES 
+('Kenai Peninsula Community College', "AK", 100130804),
+('University of Alaska Southeast-Juneau', "AK", 100130817),
+('University of Alaska, Anchorage', "AK", 100130818),
+('University of Alaska, Fairbanks', "AK", 100130816);
 
 SELECT * FROM schools;
