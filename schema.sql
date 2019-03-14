@@ -54,6 +54,6 @@ VALUES
 ('University of Montevallo', "AL", 100130758);
 ('University of North Alabama', "AL", 100130763);
 ('University of South Alabama', "AL", 100130781);
-
+('Wallace State Community College', "AL", 100130748);
 
 SELECT * FROM schools;
