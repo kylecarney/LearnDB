@@ -66,4 +66,42 @@ VALUES
 ('University of Alaska, Anchorage', "AK", 100130818),
 ('University of Alaska, Fairbanks', "AK", 100130816);
 
+/* Schema for Arizona schools */
+INSERT INTO schools (school_name, school_state, school_external_org_id)
+VALUES 
+('Argosy University-Phoenix', "AZ", 100130858),
+('Arizona Christian University', "AZ", 100130860),
+('Arizona State University', "AZ", 100130844),
+('Arizona Western College', "AZ", 100130820),
+('Central Arizona College', "AZ", 100130829),
+('Chandler-Gilbert Community College', "AZ", 100130837),
+('Cochise College', "AZ", 100130821),
+('Coconino Community College', "AZ", 100130840),
+('Dine College', "AZ", 100130842),
+('Eastern Arizona College', "AZ", 100130822),
+('Embry Riddle Aeronautical University, Prescott', "AZ", 100130854),
+('Estrella Mountain Community College', "AZ", 100130841),
+('Everest College-Phoenix', "AZ", 100130857),
+('Gateway Community College', "AZ", 100130824),
+('Glendale Community College', "AZ", 100130823),
+('Grand Canyon University', "AZ", 100130847),
+('Mesa Community College', "AZ", 100130826),
+('Mohave Community College', "AZ", 100130838),
+('Northcentral University', "AZ", 100130856),
+('Northern Arizona University', "AZ", 100130845),
+('Northland Pioneer College', "AZ", 100130835),
+('Paradise Valley Community College', "AZ", 100130836),
+('Penn Foster College', "AZ", 100120661),
+('Phoenix College', "AZ", 100130827),
+('Pima County Community College District', "AZ", 100130831),
+('Prescott College', "AZ", 100130848),
+('Rio Salado Community College', "AZ", 100130834),
+('Scottsdale Community College', "AZ", 100130828),
+('South Mountain Community College', "AZ", 100130839),
+('University of Advancing Technology', "AZ", 100130859),
+('University of Arizona', "AZ", 100130846),
+('University of Phoenix Arizona', "AZ", 100130851),
+('Western International University', "AZ", 100130853),
+('Yavapai College', "AZ", 100130832);
+
 SELECT * FROM schools;
