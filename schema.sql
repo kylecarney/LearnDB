@@ -56,7 +56,4 @@ VALUES
 ('University of South Alabama', "AL", 100130781);
 ('Wallace State Community College', "AL", 100130748);
 
-
-
-
 SELECT * FROM schools;
