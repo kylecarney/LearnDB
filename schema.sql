@@ -276,7 +276,7 @@ VALUES
 ('Mti College', "CA", 100120858),
 ('NY Film Academy-Los Angeles', "CA", 100131852),
 ('Napa Valley College', "CA", 100120768),
-('California Baptist University', "CA", ),
+('National Polytechnic College of Science', "CA", 100120850),
 ('California Baptist University', "CA", ),
 
 
