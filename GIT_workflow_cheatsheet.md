@@ -1,32 +1,34 @@
-Git Workflow
-Make sure you are on master
-git checkout master
+# Git Workflow
 
-Pull the most up-to-date from GitHub
-git pull origin master
+### Make sure you are on master
+`git checkout master`
 
-To see all branches from all users
-git branch -r
+### Pull the most up-to-date from GitHub
+`git pull origin master`
 
-To keep your local repo in sync with other branches.
-This will help remove branches that no longer exist. git fetch -p
+### To see all branches from all users
+`git branch -r`
 
-Create a new branch & check it out
-git checkout -b my-new-branch
+### To keep your local repo in sync with other branches.
+This will help remove branches that no longer exist.
+`git fetch -p`
 
-Add your files to be commited
-git add .
+### Create a new branch & check it out
+`git checkout -b my-new-branch`
 
-Add a meanignful commit message
-git commit -m "your message here"
+### Add your files to be commited
+`git add .`
 
-Closing an issue using a commit message
+### Add a meanignful commit message
+`git commit -m "your message here"`
+
+### Closing an issue using a commit message
 On the GitHub page find the issue number that you want to close and add it in the commit message with the keyword "closes"
 
-git commit -m "closes #123"
+`git commit -m "closes #123"`
 
-Push your branch to GitHub
-git push origin my-new-branch
+### Push your branch to GitHub
+`git push origin my-new-branch`
 
-To Delete your branch from the local repo
-git branch -d my-new-branch
+### To Delete your branch from the local repo
+`git branch -d my-new-branch`
