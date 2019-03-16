@@ -339,6 +339,24 @@ VALUES
 ('University of California, Merced', "CA", 100121017),
 ('University of California, San Diego', "CA", 100120881), 
 ('University of California, Santa Barbara', "CA", 100120882),
-('University of California, Santa Cruz', "CA", 100120883);
+('University of California, Santa Cruz', "CA", 100120883),
+('University of La Verne', "CA", 100120978),
+('University of Redlands', "CA", 100120916),
+('University of San Diego', "CA", 100120926),
+('University of San Francisco', "CA", 100120931),
+('University of Southern California', "CA", 100120940),
+('University of the Pacific', "CA", 100120910),
+('Vanguard University of Southern California', "CA", 100121013),
+('Ventura College', "CA", 100120798),
+('Victor Valley College', "CA", 100120799),
+('West Coast University', "CA", 100120946),
+('West Hills Community College', "CA", 100120735),
+('West Los Angeles College', "CA", 100120812),
+('West Valley College', "CA", 100120800),
+('Whittier College', "CA", 100120948),
+('William Jessup University', "CA", 100121029),
+('Woodbury University', "CA", 100120972),
+('Woodland Community College', "CA", 100120860),
+('Yuba College', "CA", 100120801);
 
 SELECT * FROM schools;
