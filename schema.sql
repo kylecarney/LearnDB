@@ -359,4 +359,47 @@ VALUES
 ('Woodland Community College', "CA", 100120860),
 ('Yuba College', "CA", 100120801);
 
+/* Schema for Colorado schools */
+INSERT INTO schools (school_name, school_state, school_external_org_id)
+VALUES 
+('Adams State University', "CO", 100121124),
+('Aims Community College', "CO", 100121117),
+('Arapahoe Community College', "CO", 100121112),
+('College for Financial Planning', "CO", 100121149),
+('Colorado Christian University', "CO", 100121148),
+('Colorado College', "CO", 100121125),
+('Colorado Mesa University', "CO", 100121106),
+('Colorado Mountain College', "CO", 100121113),
+('Colorado School of Mines', "CO", 100121126),
+('Colorado State University', "CO", 100121128),
+('Colorado State University-Pueblo', "CO", 100121132),
+('Colorado State University-Global Campus', "CO", 100121156),
+('Colorado Technical University', "CO", 100121143),
+('Community College of Aurora', "CO", 100121121),
+('Community College of Denver', "CO", 100121118),
+('Devry University-Colorado', "CO", 100121154),
+('Fort Lewis College', "CO", 100121129),
+('Front Range Community College', "CO", 100121120),
+('Johnson & Wales University-Colorado', "CO", 100121152),
+('Jones International University', "CO", 100121150),
+('Lamar Community College', "CO", 100121114),
+('Metropolitan State University of Denver', "CO", 100121127),
+('Morgan Community College', "CO", 100121123),
+('Naropa University', "CO", 100121147),
+('Northeastern Junior College', "CO", 100121107),
+('Otero Junior College', "CO", 100121108),
+('Pikes Peak Community College', "CO", 100121115),
+('Pueblo Community College', "CO", 100121122),
+('Red Rocks Community College', "CO", 100121119),
+('Regis University', "CO", 100121131),
+('Rocky Mountain College of Art & Design', "CO", 100121153),
+('Trinidad State Junior College', "CO", 100121111),
+('United States Air Force Academy', "CO", 100121137),
+('University of Colorado-Colorado Springs', "CO", 100131477),
+('University of Colorado', "CO", 100121138),
+('University of Colorado-Denver', "CO", 100130868),
+('Western State Colorado University', "CO", 100121140),
+('Westwood College', "CO", 100121140);
+
+
 SELECT * FROM schools;
