@@ -401,5 +401,44 @@ VALUES
 ('Western State Colorado University', "CO", 100121140),
 ('Westwood College', "CO", 100121140);
 
+/* Schema for Connecticut schools */
+INSERT INTO schools (school_name, school_state, school_external_org_id)
+VALUES 
+('Albertus Magnus College', "CT", 100121202),
+('Asnuntuck Community College', "CT", 100121183),
+('Briarwood College', "CT", 100121192),
+('Capital Community College', "CT", 100121196),
+('Central Connecticut State University', "CT", 100121204),
+('Charter Oak State College', "CT", 100121230),
+('Connecticut College', "CT", 100121205),
+('Eastern Connecticut State University', "CT", 100121206),
+('Fairfield University', "CT", 100121208),
+('Gateway Community College', "CT", 100121195),
+('Goodwin College', "CT", 100121197),
+('Housatonic Community College', "CT", 100121175),
+('Manchester Community College-Connecticut', "CT", 100121176),
+('Middlesex Community College', "CT", 100121185),
+('Mitchell College', "CT", 100121200),
+('Naugatuck Valley Community College', "CT", 100121181),
+('Northwestern Connecticut Community College', "CT", 100121177),
+('Norwalk Community College', "CT", 100121187),
+('Post University', "CT", 100121201),
+('Quinebaug Valley Community College', "CT", 100121191),
+('Quinnipiac University', "CT", 100121211),
+('Sacred Heart University', "CT", 100121226),
+('Southern Connecticut State University', "CT", 100121213),
+('St. Vincents College', "CT", 100121235),
+('Three Rivers Community Community College', "CT", 100121194),
+('Trinity College', "CT", 100121215),
+('Tunxis Community College', "CT", 100121189),
+('United States Coast Guard Academy', "CT", 100121216),
+('University of Bridgeport', "CT", 100121217),
+('University of Connecticut', "CT", 100121218),
+('University of Hartford', "CT", 100121219),
+('University of New Haven', "CT", 100121209),
+('University of Saint Joseph', "CT", 100121212),
+('Wesleyan University', "CT", 100121222),
+('Western Connecticut State University', "CT", 100121223),
+('Yale University', "CT", 100121225);
 
 SELECT * FROM schools;
