@@ -441,4 +441,14 @@ VALUES
 ('Western Connecticut State University', "CT", 100121223),
 ('Yale University', "CT", 100121225);
 
+/* Schema for Delaware schools */
+INSERT INTO schools (school_name, school_state, school_external_org_id)
+VALUES 
+('Delaware State University', "DE", 100121252),
+('Delaware Technical Community College', "DE", 100133633),
+('Goldey Beacom College', "DE", 100121256),
+('University of Delaware', "DE", 100121254),
+('Wesley College', "DE", 100121254),
+('Wilmington University', "DE", 100121255);
+
 SELECT * FROM schools;
