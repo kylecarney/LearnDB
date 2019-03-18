@@ -451,4 +451,20 @@ VALUES
 ('Wesley College', "DE", 100121254),
 ('Wilmington University', "DE", 100121255);
 
+/* Schema for District of Columbia schools */
+INSERT INTO schools (school_name, school_state, school_external_org_id)
+VALUES 
+('American University', "DC", 100121263),
+('Catholic University of America', "DC", 100121264),
+('Corcoran University of Art and Design', "DC", 100121278),
+('Gallaudet University', "DC", 100121268),
+('George Washington University', "DC", 100121269),
+('Georgetown University', "DC", 100121270),
+('Howard University', "DC", 100121270),
+('George Washington University-Mount Vernon Campus', "DC", 100121262),
+('Southeastern University', "DC", 100121275),
+('Trinity Washington University', "DC", 100121274),
+('University of the District of Columbia', "DC", 100121265),
+('University of the Potomac', "DC", 100121281);
+
 SELECT * FROM schools;
