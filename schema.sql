@@ -470,7 +470,7 @@ VALUES
 /* Schema for Florida Schools schools */
 INSERT INTO schools (school_name, school_state, school_external_org_id)
 VALUES 
-('Florida Community College', "FL", ),
+('Adventist University of Health Sciences', "FL", 100121322),
 ('Florida Community College', "FL", ),
 ('Florida Community College', "FL", ),
 ('Florida Community College', "FL", ),
