@@ -467,4 +467,32 @@ VALUES
 ('University of the District of Columbia', "DC", 100121265),
 ('University of the Potomac', "DC", 100121281);
 
+/* Schema for Florida Schools schools */
+INSERT INTO schools (school_name, school_state, school_external_org_id)
+VALUES 
+('Florida Community College', "FL", ),
+('Florida Community College', "FL", ),
+('Florida Community College', "FL", ),
+('Florida Community College', "FL", ),
+('Florida Community College', "FL", ),
+('Florida Community College', "FL", ),
+('Florida Community College', "FL", ),
+('Florida Community College', "FL", ),
+('Florida Community College', "FL", ),
+('Florida Community College', "FL", ),
+('Florida Community College', "FL", ),
+('Florida Community College', "FL", ),
+('Florida Community College', "FL", ),
+('Florida Community College', "FL", ),
+('Florida Community College', "FL", ),
+('Florida Community College', "FL", ),
+('Florida Community College', "FL", ),
+('Florida Community College', "FL", ),
+('Florida Community College', "FL", ),
+('Florida Community College', "FL", ),
+('Florida Community College', "FL", ),
+('Florida Community College', "FL", ),
+('Florida Community College', "FL", ),
+('Florida Community College', "FL", ),
+
 SELECT * FROM schools;
