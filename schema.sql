@@ -499,18 +499,6 @@ VALUES
 ('Florida Community College', "FL", ),
 ('Florida Community College', "FL", ),
 ('Florida Community College', "FL", ),
-('Florida Community College', "FL", ),
-('Florida Community College', "FL", ),
-('Florida Community College', "FL", ),
-('Florida Community College', "FL", ),
-('Florida Community College', "FL", ),
-('Florida Community College', "FL", ),
-('Florida Community College', "FL", ),
-('Florida Community College', "FL", ),
-('Florida Community College', "FL", ),
-('Florida Community College', "FL", ),
-('Florida Community College', "FL", ),
-('Florida Community College', "FL", ),
 
 
 
