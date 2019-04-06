@@ -472,6 +472,21 @@ INSERT INTO schools (school_name, school_state, school_external_org_id)
 VALUES 
 ('Adventist University of Health Sciences', "FL", 100121322),
 ('Florida Community College', "FL", ),
+('Florida Community College', "FL", ),
+('Florida Community College', "FL", ),
+('Florida Community College', "FL", ),
+('Florida Community College', "FL", ),
+('Florida Community College', "FL", ),
+('Florida Community College', "FL", ),
+('Florida Community College', "FL", ),
+('Florida Community College', "FL", ),
+('Florida Community College', "FL", ),
+('Florida Community College', "FL", ),
+('Florida Community College', "FL", ),
+('Florida Community College', "FL", ),
+('Florida Community College', "FL", ),
+('Florida Community College', "FL", ),
+('Florida Community College', "FL", ),
 
 
 
