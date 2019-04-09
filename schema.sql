@@ -474,7 +474,7 @@ VALUES
 //Next florida college
 ('Florida Community College', "FL", ),
 ('Florida Community College', "FL", ),
-('Florida College', "FL", ),
+
 
 
 
