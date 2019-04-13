@@ -473,8 +473,10 @@ VALUES
 ('Adventist University of Health Sciences', "FL", 100121322),
 ('Florida Community College', "FL", ),
 ('Florida Community College', "FL", ),
-
-
+('Florida Community College', "FL", ),
+('Florida Community College', "FL", ),
+('Florida Community College', "FL", ),
+('Florida Community College', "FL", ),
 
 
 
