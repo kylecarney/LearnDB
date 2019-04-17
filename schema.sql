@@ -480,8 +480,4 @@ VALUES
 
 
 
-
-
-
-
 SELECT * FROM schools;
