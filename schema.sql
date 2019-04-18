@@ -474,6 +474,6 @@ VALUES
 /* Next Florida schools goes here! */
 ('Florida Community College', "FL", ),
 ('Florida Community College', "FL", ),
-('Florida Community College', "FL", ),
+
 
 SELECT * FROM schools;
